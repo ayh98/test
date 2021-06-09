@@ -1,0 +1,42 @@
+
+div {
+  text-align: center;
+}
+
+  .grey-text {      
+    color: rgb(0, 0, 0);
+  }
+
+h1 {
+    font-family: Lobster;
+    color: rgb(0, 0, 0);
+  }
+
+  h2 {
+    font-family: Lobster;
+  }
+
+p {
+    font-size: 18px;
+    font-family: monospace;
+    color: rgb(14, 0, 138);
+  }
+
+span {
+    font-size: 50px;
+    }
+
+body {
+  background-color: rgba(131, 131, 131, 0.315);
+  /* background: floralwhite */
+}
+
+input {
+    display: block;
+    margin-bottom: 20px;
+    }
+
+footer {
+  text-align: center;
+  font-size: large;
+}
